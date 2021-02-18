@@ -1,0 +1,7 @@
+.employee-data {
+	padding: 8px;
+}
+.employee-data > span:first-child {
+	width: 100px;
+	min-width: 100px;
+}
